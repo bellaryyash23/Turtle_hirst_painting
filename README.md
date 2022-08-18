@@ -8,6 +8,6 @@
 
 👉Finally used the Screen Class to display the output of program and thereby create a GUI of program.
 
-![alt text](https://github.com/bellaryyash23/Turtle_hirst_painting/blob/master/final_img.JPG?raw=true)
+![Hirst Painting using Turtle](https://github.com/bellaryyash23/Turtle_hirst_painting/blob/master/final_img.JPG?raw=true)
 
          
